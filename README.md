@@ -1,6 +1,6 @@
 ### Hi, I'm Mads 👋
 
-#####  I'm a Product Engineer with a passion for architecture, core manufacturing, and design systems. 
+#####  I'm a Product Engineer with a passion for software architecture, core manufacturing, and design systems. 
 
 ##### Organizations working with web development hires me to identify common denominators, distribute shared components, and create utility tools for their development teams. 
 
